@@ -1,0 +1,17 @@
+
+1.useState- Manage State
+
+State Means-->Changes 
+ex Count 0 to 1 
+      -0 is 1st State and 
+      -1st 2nd State
+
+2.useEffect --Manage Side State
+
+3.useRef- Refrences of React and change...Dom acess
+
+4.useContaxt-Mangae GolobalContext
+
+5.useReducer-Manage hard task
+
+6.useMamo & useCallback ==Optimaztion
