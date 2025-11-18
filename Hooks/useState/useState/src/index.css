@@ -1,0 +1,14 @@
+button{
+    padding: 20px;
+    margin: 30px;
+}
+
+
+h1{
+    padding: 70px;
+    margin: 30px;
+    background-color: #222;
+    width: fit-content;
+    font-weight: 600;
+    font-size:100px;
+}
